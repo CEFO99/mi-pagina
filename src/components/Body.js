@@ -16,7 +16,7 @@ function Body() {
                 src={require("../assets/img/logo1.png")}
                 alt=""
                 width="400"
-                className="d-block mx-auto"
+                className="d-block mx-auto img-fluid"
               />
             </a>
           </div>
