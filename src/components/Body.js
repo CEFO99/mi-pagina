@@ -62,7 +62,7 @@ function Body() {
                     <p>7963-2053</p>
                     <p>Want to see my <b>CV</b>? Here</p>
                     <a href="https://drive.google.com/file/d/1OQ3NxLUk8PL4rROxV9ET4Bl1esT4StyL/view?usp=sharing" target="_blank" className="btn btn-primary">
-                    <i class="fa fa-file-pdf" /> My CV
+                    <i className="fa fa-file-pdf" /> My CV
                     </a>
                   </div>
                 </div>
