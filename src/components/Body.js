@@ -11,10 +11,10 @@ function Body() {
       <header className="parallax-header" id="home">
         <div className="container">
           <div className="header-content">
-            <a href="">
+            <a href="#home">
               <img
                 src={require("../assets/img/logo1.png")}
-                alt=""
+                alt="Logo"
                 width="400"
                 className="d-block mx-auto img-fluid"
               />
@@ -32,7 +32,7 @@ function Body() {
                 <div className="wrapper">
                   <div className="item">
                     <div className="polaroid">
-                      <img src={require("../assets/img/me.jpeg")} />
+                      <img src={require("../assets/img/me.jpeg")} alt="me"/>
                     </div>
                   </div>
                 </div>
@@ -61,7 +61,7 @@ function Body() {
                     <b>Phone Number: </b>
                     <p>7963-2053</p>
                     <p>Want to see my <b>CV</b>? Here</p>
-                    <a href="https://drive.google.com/file/d/1OQ3NxLUk8PL4rROxV9ET4Bl1esT4StyL/view?usp=sharing" target="_blank" className="btn btn-primary">
+                    <a href="https://drive.google.com/file/d/1z6jk0sBONyuehoqe6F327nmMQFsmqLBc/view?usp=sharing" target="_blank" rel="noreferrer" className="btn btn-primary">
                     <i className="fa fa-file-pdf" /> My CV
                     </a>
                   </div>
